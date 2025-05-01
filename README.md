@@ -11,7 +11,8 @@ swing-bot/
 ```
 Install dependensi
 ```bash
-npm install axios
+npm init -y
+npm install axios technicalindicators node-telegram-bot-api
 ```
 Isi config.js dengan benar
 ```bash
